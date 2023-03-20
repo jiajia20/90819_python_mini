@@ -1,0 +1,10 @@
+Barrett,1001,49
+Smith,4301,90
+Ng,7712,98
+Jones,4041,78
+Barnes,8804,88
+Miller,2501,40
+Collins,3952,84
+Gonzales,7510,82
+Zhao,8112,94
+Patel,7107,87
